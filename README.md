@@ -6,7 +6,7 @@
 <a href="https://twitter.com/tsumiki_gfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsumiki_gfx" height="30" width="40" /></a>
 <a href="https://instagram.com/tsumiki_gfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tsumiki_gfx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tsumikiminiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tsumiki" height="30" width="40" /></a>
-<a href="https://discord.gg/qcX2JnV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qcX2JnV" height="30" width="40" /></a>
+<a href="https://dsc.bio/tsumiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qcX2JnV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
